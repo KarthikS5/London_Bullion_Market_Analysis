@@ -4,5 +4,5 @@
 2. The Cleaned Data now extracted into CSV file.
 3. The Extracted CSV now loaded in the SQL(MySql) to for Data analysis.
 4. Change the date format of the data table.
-5. Altered the data types and modified it as per requeries.
+5. Altered the data types and modified it as per requires.
    
